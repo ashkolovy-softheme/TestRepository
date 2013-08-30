@@ -9,6 +9,7 @@ namespace TestApp2.Controllers
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application. HotFix1";
             ViewBag.SomeNewFeature3 = "SomeNewFeature3";
             ViewBag.SomeNewFeature2 = "SomeNewFeature2";
+            ViewBag.SomeNewFeature4 = "SomeNewFeature4";
 
             return View();
         }
