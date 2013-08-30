@@ -6,13 +6,15 @@ namespace TestApp2.Controllers
     {
         public ActionResult Index()
         {
-<<<<<<< HEAD
+<<<<<<< Updated upstream
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application. HotFix1";
-=======
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
             ViewBag.SomeNewFeature3 = "SomeNewFeature3";
             ViewBag.SomeNewFeature2 = "SomeNewFeature2";
->>>>>>> SomeNewFeature3
+            ViewBag.SomeNewFeature4 = "SomeNewFeature4";
+=======
+            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.SomeNewFeature1 = "SomeNewFeature1";
+>>>>>>> Stashed changes
 
             return View();
         }

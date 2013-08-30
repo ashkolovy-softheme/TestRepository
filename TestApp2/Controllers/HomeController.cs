@@ -10,6 +10,7 @@ namespace TestApp2.Controllers
             ViewBag.SomeNewFeature3 = "SomeNewFeature3";
             ViewBag.SomeNewFeature2 = "SomeNewFeature2";
             ViewBag.SomeNewFeature4 = "SomeNewFeature4";
+            ViewBag.SomeNewFeature1 = "SomeNewFeature1";
 
             return View();
         }
