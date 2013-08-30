@@ -7,8 +7,11 @@ namespace TestApp2.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+<<<<<<< HEAD
             ViewBag.SomeNewFeature3 = "SomeNewFeature3";
+=======
             ViewBag.SomeNewFeature2 = "SomeNewFeature2";
+>>>>>>> SomeNewFeature2
 
             return View();
         }
