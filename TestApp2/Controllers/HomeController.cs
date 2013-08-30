@@ -11,6 +11,7 @@ namespace TestApp2.Controllers
             ViewBag.SomeNewFeature2 = "SomeNewFeature2";
             ViewBag.SomeNewFeature4 = "SomeNewFeature4";
             ViewBag.SomeNewFeature1 = "SomeNewFeature1";
+            ViewBag.SomeNewFeature6 = "SomeNewFeature6";
 
             return View();
         }
