@@ -13,6 +13,9 @@ namespace TestApp2.Controllers
             ViewBag.SomeNewFeature1 = "SomeNewFeature1";
             ViewBag.SomeNewFeature6 = "SomeNewFeature6";
 
+            ViewBag.CherryPick1 = "CherryPick1";
+            ViewBag.CherryPick2 = "CherryPick2"; 
+            
             return View();
         }
 

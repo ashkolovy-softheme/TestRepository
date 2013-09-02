@@ -11,12 +11,14 @@ namespace TestApp2.Controllers
             ViewBag.SomeNewFeature2 = "SomeNewFeature2";
             ViewBag.SomeNewFeature4 = "SomeNewFeature4";
             ViewBag.SomeNewFeature1 = "SomeNewFeature1";
-<<<<<<< HEAD
             ViewBag.SomeNewFeature6 = "SomeNewFeature6";
-            ViewBag.SomeNewFeature1 = "SomeNewFeature5";
-=======
->>>>>>> parent of b7de887... SomeNewFeature6
 
+<<<<<<< HEAD
+=======
+            ViewBag.CherryPick1 = "CherryPick1";
+            ViewBag.CherryPick2 = "CherryPick2";
+
+>>>>>>> 9eda63a... CherryPick2
             return View();
         }
 
